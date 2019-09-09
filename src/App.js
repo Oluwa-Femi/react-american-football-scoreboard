@@ -36,7 +36,7 @@ function App() {
             <div className="home__score">32</div>
             <div className="home__score">{homeScore}</div>
           </div>
-          <div className="timer">00:03</div>
+          {/* <div className="timer">00:03</div> */}
           <div className="timer">00:{timer}</div>
           <div className="away">
             <h2 className="away__name">Tigers</h2>
